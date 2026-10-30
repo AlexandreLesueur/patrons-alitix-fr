@@ -1,5 +1,5 @@
-// Liens de paiement Stripe. Laisser vide tant que les liens ne sont pas créés : les boutons restent inertes.
+// Liens de paiement Stripe. Laisser vide pour rendre un bouton inerte.
 window.PAGE_CONFIG = {
-  kit: "",
-  audit: ""
+  kit: "https://buy.stripe.com/28E9AScJw2CB7mg40OcjS03",
+  audit: "https://buy.stripe.com/5kQfZg9xkeljgWQdBocjS02"
 };
